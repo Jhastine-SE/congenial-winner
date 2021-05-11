@@ -1,0 +1,13 @@
+body {
+    color:#630;
+    line-height:25px;
+    font-size:0.95em;
+    display:flex;
+	height:100vh;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+	font-family: "Nico Moji";
+	background:#b7f3a9;
+	color:#333;
+    }
